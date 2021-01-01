@@ -8,7 +8,7 @@
  + Modelos de MongoDB
  + Controllers
  + Middlewares de Express
- + JWT
+ + Json Web Token
  + Autenticación
  + Encriptación
  + CORS
